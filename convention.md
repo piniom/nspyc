@@ -4,7 +4,7 @@ subtitle: Non-Standard Polish Yellow Card
 author: 
     - Tomasz Szczepanik
     - Szymon Wojtulewicz
-date: 2020-02-20
+date: 2024-03-02
 
 lang: pl-PL
 
