@@ -1,2 +1,1 @@
-docker run --rm --volume "`pwd`:/data" --user `id -u`:`id -g` \
-    nspyc-pandoc
+docker run --rm -v "`pwd`:/data/output" nspyc-pandoc

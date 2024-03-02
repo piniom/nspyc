@@ -20,7 +20,7 @@ jobs:
         run: docker build -t nspyc-pandoc .
 
       - name: Run Container and Generate PDF
-        run: docker run -v ${{ github.workspace }}/output:/data nspyc-pandoc
+        run: docker run -v ${{ github.workspace }}/output:/data/output nspyc-pandoc
 
       - name: Create Release
         id: create_release
