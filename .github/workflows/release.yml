@@ -26,7 +26,7 @@ jobs:
         id: create_release
         uses: elgohr/Github-Release-Action@v5
         env:
-        GITHUB_TOKEN: ${{ secrets.RELEASE_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.RELEASE_TOKEN }}
         with:
           title: $(grep 'subtitle:' convention.md | awk '{print $NF}')
 
