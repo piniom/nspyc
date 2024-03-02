@@ -26,23 +26,25 @@ jobs:
           username: ${{ github.actor }}
           password: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Extract Docker metadata for Backend
+      - name: Extract Docker metadata 
         id: meta
         uses: docker/metadata-action@v4
         with:
           images: ${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}
 
-      - name: Build and push Backend Docker image
+      - name: Build and push Docker image
         uses: docker/build-push-action@v4
         with:
+          context: .
           push: true
           tags: ${{ steps.meta.outputs.tags }}
           labels: ${{ steps.meta.outputs.labels }}
           cache-from: type=gha
           cache-to: type=gha,mode=max
+          outputs: type=docker,dest=/tmp/nspyc-pandoc.tar
 
       - name: Run Container and Generate PDF
-        run: docker run -v ${{ github.workspace }}/output:/data/output ${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}
+        run: docker run -v ${{ github.workspace }}/output:/data/output nspyc-pandoc
 
       - name: Extract release version
         id: extract_value
