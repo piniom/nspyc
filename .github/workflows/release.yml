@@ -41,12 +41,9 @@ jobs:
           labels: ${{ steps.meta.outputs.labels }}
           cache-from: type=gha
           cache-to: type=gha,mode=max
-          outputs: type=docker,dest=/tmp/nspyc-pandoc.tar
 
       - name: Run Container and Generate PDF
-        run: |
-          docker load -i /tmp/nspyc-pandoc.tar
-          docker run -v ${{ github.workspace }}/output:/data/output nspyc-pandoc
+        run: docker run -v ${{ github.workspace }}/output:/data/output ${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}:${{ github.ref }}
 
       - name: Extract release version
         id: extract_value
