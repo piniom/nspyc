@@ -13,4 +13,4 @@ COPY convention.md /data/
 WORKDIR /data
 
 # Command to run when the container starts
-CMD ["--pdf-engine=xelatex", "-o", "convention.pdf",  "convention.md", "-V",  "mainfont:DejaVu Serif"]
+CMD ["--pdf-engine=xelatex", "-o", "convention.pdf",  "convention.md"]

@@ -1,8 +1,17 @@
 ---
 title: NSPYC
-author: Tomasz Szczepanik, Szymon Wojtulewicz
+subtitle: Non-Standard Polish Yellow Card
+author: 
+    - Tomasz Szczepanik
+    - Szymon Wojtulewicz
 date: 2020-02-20
+
+lang: pl-PL
+
 colorlinks: true
+mainfont: Nimbus Roman
+mathfont: DejaVu Sans Mono
+monofont: DejaVu Sans Mono
 ---
 
 # Otwarcia
@@ -13,12 +22,12 @@ Otwarcie zasadniczo zerżnięte z SAYC'a jak zresztą całość konwencji.
 <!-- TODO: ustalić granice punktowe-->
 |      |      | Punkty | Opis                                                      |
 |------|------|--------|-----------------------------------------------------------|
-| 1    | ♣    | 11-19  | Brak starszej 5tki, #♣ > #♦ *                           |
-| 1    | ♦    | 11-19  | Brak starszej 5tki, #♦ > #♣ *                           |
+| 1    | ♣    | 11-19  | Brak starszej 5tki, `#♣ > #♦` *                           |
+| 1    | ♦    | 11-19  | Brak starszej 5tki, `#♦ > #♣` *                           |
 | 1    | ♠ ♥  | 11-??  | 5tka w kolorze                                            |
 | 1    | NT   | 15-17  | Brak starszej 5tki, brak młodszej 6tki, zrównoważona ręka |
 
-\* Jeżeli #♣ = #♦ to 1♦, chyba że #♣ = #♦ =3 to 1♣.
+\* Jeżeli `#♣ = #♦` to 1♦, chyba że `#♣ = #♦ =3` to 1♣.
 
 ## Otwarcia mocne
 <!-- TODO: 3NT? -->
