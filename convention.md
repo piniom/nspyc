@@ -51,7 +51,7 @@ Pas następuje gdy żadna z powyższych odzywek nie jest odpowiednia - mało pun
 
 
 
-# Odzywki po otwarciu przez przciwnika
+# Odzywki po otwarciu przez przeciwnika
 
 Poniższy rozdział opisuje konwencje odnośnie następnej nie pasującej odzywki po otwarciu przez przeciwnika.
 
@@ -75,7 +75,7 @@ Pytaniem o asy jest 4 ♣ chyba, że kontekst na to nie pozwala to wtedy 4NT. (n
 
 ### Odpowiedzi po 4 NT
 
-Odpowiedzi po 4 NT są podobne ale odpowiednio przesunięte w stosunku do tych po 4 ♣.
+Odpowiedzi po 4 NT są podobne ale odpowiednio przesunięte w stosunku do tych po 4♣.
 
 |      |   | Liczba asów                                 |
 |------|---|---------------------------------------------|
