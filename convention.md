@@ -48,7 +48,23 @@ Pas następuje gdy żadna z powyższych odzywek nie jest odpowiednia - mało pun
 
 Poniższy rozdział opisuje konwencje odnośnie następnej nie pasującej odzywki po otwarciu przez przeciwnika. TODO.
 
+# Odpowiedzi po otwarciu
 
+## Odpowiedzi po pasie przeciwnika
+
+### Odpowiedzi po 1♣♦
+
+### Odpowiedzi po 1♥♠
+
+### Odpowiedzi po 1NT i 2NT
+
+
+
+### Odpowiedzi po 2♣
+
+### Odpowiedzi po 2♦♥♠ i 2♣♦♥♠
+
+## Odpowiedzi po odzywce przeciwnika
 
 # Licytowanie szlema i szlemika
 
