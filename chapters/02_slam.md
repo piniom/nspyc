@@ -3,7 +3,7 @@
 ## Pytania o asy
 Pytaniem o asy jest 4 ♣ chyba, że kontekst na to nie pozwala to wtedy 4NT. (np. ♣ jest ustalonym kolorem i 4 ♣ może być rozumiane jako invit do partii). 
 
-### Odpowiedzi bo 4 ♣
+### Odpowiedzi po 4 ♣
 
 |      |   | Liczba asów                                 |
 |------|---|---------------------------------------------|
@@ -14,9 +14,9 @@ Pytaniem o asy jest 4 ♣ chyba, że kontekst na to nie pozwala to wtedy 4NT. (n
 
 \* W przypadku gry w NT odzywką jest 4 ♠
 
-### Odpowiedzi bo 4 NT
+### Odpowiedzi po 4 NT
 
-Odpowiedzi bo 4 NT są podobne ale odpowiednio przesunięte w stosunku do tych po 4 ♣.
+Odpowiedzi po 4 NT są podobne ale odpowiednio przesunięte w stosunku do tych po 4 ♣.
 
 |      |   | Liczba asów                                 |
 |------|---|---------------------------------------------|
