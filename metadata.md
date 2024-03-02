@@ -1,10 +1,4 @@
 ---
-title: NSPYC
-subtitle: Non-Standard Polish Yellow Card v0.2
-author: 
-    - Tomasz Szczepanik
-    - Szymon Wojtulewicz
-date: 2024-03-02
 lang: pl-PL
 
 colorlinks: true
@@ -25,4 +19,3 @@ papersize: a5
 #     - landscape
 # header-includes:
 #     - \usepackage{supertabular}
----
