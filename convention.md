@@ -53,7 +53,7 @@ Pas następuje gdy żadna z powyższych odzywek nie jest odpowiednia - mało pun
 
 # Odzywki po otwarciu przez przeciwnika
 
-Poniższy rozdział opisuje konwencje odnośnie następnej nie pasującej odzywki po otwarciu przez przeciwnika.
+Poniższy rozdział opisuje konwencje odnośnie następnej nie pasującej odzywki po otwarciu przez przeciwnika. TODO.
 
 
 
