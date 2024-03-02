@@ -44,7 +44,9 @@ jobs:
           outputs: type=docker,dest=/tmp/nspyc-pandoc.tar
 
       - name: Run Container and Generate PDF
-        run: docker run -v ${{ github.workspace }}/output:/data/output nspyc-pandoc
+        run: |
+          docker load -i /tmp/nspyc-pandoc.tar
+          docker run -v ${{ github.workspace }}/output:/data/output nspyc-pandoc
 
       - name: Extract release version
         id: extract_value
