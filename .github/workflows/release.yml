@@ -42,7 +42,7 @@ jobs:
           cache-to: type=gha,mode=max
 
       - name: Run Container and Generate PDF
-        run: docker run -v ${{ github.workspace }}/output:/data/output ${{ env.IMAGE_NAME }}
+        run: docker run -v ${{ github.workspace }}/output:/data/output ${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}
 
       - name: Extract release version
         id: extract_value
