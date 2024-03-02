@@ -43,7 +43,7 @@ jobs:
           cache-to: type=gha,mode=max
 
       - name: Run Container and Generate PDF
-        run: docker run -v ${{ github.workspace }}/output:/data/output ${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}:${{ github.ref }}
+        run: docker run -v ${{ github.workspace }}/output:/data/output ${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}:${{ github.ref_name }}
 
       - name: Extract release version
         id: extract_value
@@ -59,4 +59,4 @@ jobs:
           asset_name: convention_${{ env.RELEASE_VERSION }}.pdf
           tag: ${{ github.ref }}-${{ env.RELEASE_VERSION }}
           overwrite: true
-          body: The ${{ env.RELEASE_VERSION }} version of the convention from the ${{ github.ref }} branch.
+          body: The ${{ env.RELEASE_VERSION }} version of the convention from the ${{ github.ref_name }} branch.
