@@ -1,6 +1,6 @@
 ---
 title: NSPYC
-subtitle: Non-Standard Polish Yellow Card v0.1
+subtitle: Non-Standard Polish Yellow Card v0.2
 author: 
     - Tomasz Szczepanik
     - Szymon Wojtulewicz
