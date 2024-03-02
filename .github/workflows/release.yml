@@ -33,7 +33,7 @@ jobs:
         with:
           repo_token: ${{ secrets.RELEASE_TOKEN }}
           file: output/convention.pdf
-          asset_name: convention.pdf
-          tag: ${{ github.ref }}
+          asset_name: convention_${{ env.RELEASE_VERSION }}.pdf
+          tag: ${{ github.ref }}-${{ env.RELEASE_VERSION }}
           overwrite: true
-          body: v${{ env.RELEASE_VERSION }}
+          body: The ${{ env.RELEASE_VERSION }} version of the convention from the ${{ github.ref }} branch.
