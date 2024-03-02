@@ -28,4 +28,12 @@ Odpowiedzi po 4 NT są podobne ale odpowiednio przesunięte w stosunku do tych p
 \* W przypadku gry w NT odzywką jest 5 ♥
 
 ## Pytania o króle
-Po pytaniu o asy może nastąpić pytanie o króle. Pytaniem o króle jest kolejna odzywka po odpowiedzi na pytanie o asy. Odpowiedzi ....
+Po pytaniu o asy może nastąpić pytanie o króle. Pytaniem o króle jest kolejna odzywka po odpowiedzi na pytanie o asy. Kolejne odpowiedzi (z pominięciem koloru atutowego jeżeli jest ustalony) informują o liczbie króli.
+
+| Kolejno | Liczba króli                                |
+|---------|---------------------------------------------|
+|  I      | 0 lub 3                                     |
+|  II     | 1 lub 4                                     |
+|  III    | 2                                           |
+
+<!-- TODO: Kiedy można pasować i jakie zasady decydują o docelowym kontrakcie -->

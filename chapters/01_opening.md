@@ -1,9 +1,9 @@
-# Otwarcie
+# Otwarcia
 
 Otwarcie zasadniczo zerżnięte z SAYC'a jak zresztą całość konwencji.
 
-## Otwarcia 1x
-
+## Otwarcia na poziomie 1
+<!-- TODO: ustalić granice punktowe-->
 |      |      | Punkty | Opis                                                      |
 |------|------|--------|-----------------------------------------------------------|
 | 1    | ♣    | 11-19  | Brak starszej 5tki, `#♣ > #♦` *                           |
@@ -14,17 +14,25 @@ Otwarcie zasadniczo zerżnięte z SAYC'a jak zresztą całość konwencji.
 \* Jeżeli `#♣ = #♦` to 1♦, chyba że `#♣ = #♦ =3` to 1♣.
 
 ## Otwarcia mocne
-
+<!-- TODO: 3NT? -->
 |      |      | Punkty | Opis                                                      |
 |------|------|--------|-----------------------------------------------------------|
-| 2    | NT   | 18+    | Rozkład jak przy [1NT](#otwarcia-1x)                      |
+| 2    | NT   | 18+    | Rozkład jak przy [1NT](#otwarcia-na-poziomie-1)           |
 | 2    | ♣    | 18+    | Rozkład kart nie pozwala na 2NT                           |
 
-## Bloki
+## Otwarcia blokujące
 
-|      |        | Punkty | Opis                                                   |
-|------|--------|--------|--------------------------------------------------------|
-| 2    | ♦ ♥ ♠  | 6-11   | 6 kart w kolorze                                       |
-| 3    | ♣ ♦ ♥ ♠| 6-11   | 7 kart w kolorze *                                     |
+|      |        | Punkty | Opis                                                    |
+|------|--------|--------|---------------------------------------------------------|
+| 2    | ♦ ♥ ♠  | 6-11   | 6 kart w kolorze                                        |
+| 3    | ♣ ♦ ♥ ♠| 6-11   | 7 kart w kolorze *                                      |
 
-\* 3♣ gra się również prz 6karcie gdyż [2♣](#otwarcia-mocne) jest mocną odzywką.
+\* 3♣ gra się również prz 6karcie gdyż 2♣ jest [otwarciem mocnym](#otwarcia-mocne).
+
+## Pass
+
+Pas następuje gdy żadna z powyższych odzywek nie jest odpowiednia - mało punktów bez możliwości [bloku](#otwarcia-blokujące).
+
+# Odzywki po otwarciu przez przciwnika
+
+Poniższy rozdział opisuje konwencje odnośnie następnej nie pasującej odzywki po otwarciu przez przeciwnika.
