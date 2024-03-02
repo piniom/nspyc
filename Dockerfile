@@ -1,7 +1,6 @@
 FROM pandoc/latex:latest-ubuntu
 
-RUN apt-get update && \
-    apt-get upgrade -y
+RUN apt-get update
 
 RUN apt-get install -y fonts-lmodern texlive
 RUN apt-get install -y fonts-noto ttf-ancient-fonts xfonts-unifont fonts-unifont \
