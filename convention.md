@@ -3,7 +3,7 @@ subtitle: Non-Standard Polish Yellow Card alpha0.1
 author: 
     - Tomasz Szczepanik
     - Szymon Wojtulewicz
-date: 2024-03-02
+date: 2024-03-03
 
 ---
 

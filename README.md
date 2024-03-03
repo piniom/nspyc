@@ -11,5 +11,8 @@ run.sh
 ``` 
 Note that you have to have the [Docker](https://www.docker.com/) installed.
 
-### Contributing
+## Contributing
 If you want to contribute to the convention, edit the `convention.md`. After you verify the built PDF locally, submit a Pull Request. Please follow the styling convention. 
+
+### Setting the date
+There is a date on the title page of the generated PDF. The date is updated automatically upon every build as well as upon every wokflow run.
