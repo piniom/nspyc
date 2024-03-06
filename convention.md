@@ -56,6 +56,8 @@ Pas następuje gdy żadna z powyższych odzywek nie jest odpowiednia - mało pun
 
 Odzywki które następują po otwarciu przez przeciwnika.
 
+# Licytacja po 1♣♦♥♠
+
 # Licytacja po 1NT i 2NT
 
 
@@ -92,7 +94,7 @@ Grany po `1NT->2♣` lub `2NT->3♣`.*
 
 Poniższa sekcja opisuje odpowiedzi po transferach na starsze kolory (Jacoby transfers).
 
-Pasując po transferach (np. `1NT->PASS->2♦->2♥->PASS`) gracz sygnalizuje 0-7 pkt. Zgłoszenie młodszego koloru wymaga czterokartu i jest forsujące, a powtórzenie transferowanego koloru zgłasza sześciokart. Przy półzrównoważonej ręce można odpowiedzieć NT, z możliwą korektą na kolor transferowy przez partnera. Mając sześciokart można zamknąć `4{♥, ♠}`.
+Pasując po transferach (np. `1NT->PASS->2♦->PASS->2♥->PASS->PASS`) gracz sygnalizuje 0-7 pkt. Zgłoszenie młodszego koloru wymaga czterokartu i jest forsujące, a powtórzenie transferowanego koloru zgłasza sześciokart. Przy półzrównoważonej ręce można odpowiedzieć NT, z możliwą korektą na kolor transferowy przez partnera. Mając sześciokart można zamknąć `4{♥, ♠}`.
 
 <!-- TODO: dodać precyzyjną tabelkę -->
 
@@ -102,11 +104,11 @@ Poniższa sekcja opisuje odpowiedzi po transferach na młodsze kolory.
 
 <!-- TODO:  -->
 
-### Odpowiedzi po 2♣
+# Odpowiedzi po 2♣
 
-### Odpowiedzi po 2♦♥♠ i 2♣♦♥♠
+# Odpowiedzi po blokach
 
-## Odpowiedzi po odzywce przeciwnika
+Poniższa sekcja opisuje odpowiedzi po 2♦♥♠ i 3♣♦♥♠
 
 # Licytowanie szlema i szlemika
 
