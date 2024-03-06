@@ -3,9 +3,19 @@ subtitle: Non-Standard Polish Yellow Card alpha0.1
 author: 
     - Tomasz Szczepanik
     - Szymon Wojtulewicz
-date: 2024-03-03
+date: 2024-03-06
 
 ---
+
+# Nomenklatura
+
+Lista pojęć używanych w konwencji i ich znaczenie:
+
+- **Ręka zrównoważona** - 3 lub 4 karty w każdym kolorze, możliwy jeden dwukart.
+- **Ręka półzrównoważona** - bez renansu lub singletona.
+- **Słaba ręka** - 0-7 punktów.
+- **Kolory starsze** - kier i pik.
+- **Kolory młodsze** - trefl i karo.
 
 # Otwarcia
 
@@ -42,23 +52,55 @@ Otwarcie zasadniczo zerżnięte z SAYC'a jak zresztą całość konwencji.
 
 Pas następuje gdy żadna z powyższych odzywek nie jest odpowiednia - mało punktów bez możliwości [bloku](#otwarcia-blokujące).
 
+# Otwarcie przeciwnika
+
+Odzywki które następują po otwarciu przez przeciwnika.
+
+# Licytacja po 1NT i 2NT
 
 
-# Odzywki po otwarciu przez przeciwnika
+## Transfery i Stayman.
 
-Poniższy rozdział opisuje konwencje odnośnie następnej nie pasującej odzywki po otwarciu przez przeciwnika. TODO.
+Transfery oraz Stayman zakładają PASS przeciwnika po odzywce w NT partnera (np. `1NT->PASS->...`) .*
 
-# Odpowiedzi po otwarciu
+<!-- TODO: Punkty -->
 
-## Odpowiedzi po pasie przeciwnika
+|      |   | Punkty | Opis                                          |
+|------|---|--------|-----------------------------------------------|
+| 2    | ♣ | ??     | Brak starszej piątki, [Stayman](#stayman)     |
+| 2    | ♦ | ??     | 5 kierów, [transfery](#starsze-transfery)     |
+| 2    | ♥ | ??     | 5 pików, bez 5 kierów, [transfery](#starsze-transfery) |
+| 2    | ♠ | ??     | 5 trefli, bez starszej czwórki, [transfery](#młodsze-transfery) |
+| 2    | NT| ??     | 5 kar, bez starszej czwórki, [transfery](#młodsze-transfery) |
 
-### Odpowiedzi po 1♣♦
+\* Dla 2NT poziomy w powyższej tabeli należy podnieść o 1. 
 
-### Odpowiedzi po 1♥♠
+## Stayman
 
-### Odpowiedzi po 1NT i 2NT
+Grany po `1NT->2♣` lub `2NT->3♣`.*
+
+|      |   | Opis                                                    |
+|------|---|---------------------------------------------------------|
+| 2    | ♦ | Brak starszej czwórki                                   |
+| 2    | ♥ | 4 kiery                                                 |
+| 2    | ♠ | 4 piki, bez 4 kierów                                    |
 
 
+\* Dla 2NT poziomy w powyższej tabeli należy podnieść o 1. 
+
+## Starsze transfery
+
+Poniższa sekcja opisuje odpowiedzi po transferach na starsze kolory (Jacoby transfers).
+
+Pasując po transferach (np. `1NT->PASS->2♦->2♥->PASS`) gracz sygnalizuje 0-7 pkt. Zgłoszenie młodszego koloru wymaga czterokartu i jest forsujące, a powtórzenie transferowanego koloru zgłasza sześciokart. Przy półzrównoważonej ręce można odpowiedzieć NT, z możliwą korektą na kolor transferowy przez partnera. Mając sześciokart można zamknąć `4{♥, ♠}`.
+
+<!-- TODO: dodać precyzyjną tabelkę -->
+
+## Młodsze transfery
+
+Poniższa sekcja opisuje odpowiedzi po transferach na młodsze kolory.
+
+<!-- TODO:  -->
 
 ### Odpowiedzi po 2♣
 
