@@ -6,7 +6,7 @@ on:
       - master
 env:
   REGISTRY: ghcr.io
-  IMAGE_NAME: thepinion/nspyc-pandoc
+  IMAGE_NAME: ${{ github.actor }}/nspyc-pandoc
 
 jobs:
   build:

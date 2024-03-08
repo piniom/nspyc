@@ -16,5 +16,3 @@ If you want to contribute to the convention, edit the `convention.md`. After you
 
 ### Setting the date
 There is a date on the title page of the generated PDF. The date is updated automatically upon every build as well as upon every wokflow run.
-
-test
