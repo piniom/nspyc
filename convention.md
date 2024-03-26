@@ -29,12 +29,12 @@ Otwarcie zasadniczo zerżnięte z SAYC'a jak zresztą całość konwencji.
 
 |      |      | Punkty | Opis                                                      |
 |------|------|--------|-----------------------------------------------------------|
-| 1    | ♣️    | 11-17  | Brak starszej 5tki, `#♣️ > #♦️` *                 |
-| 1    | ♦️    | 11-17  | Brak starszej 5tki, `#♦️ > #♣️` *                           |
-| 1    | ♥️ ♠️  | 11-17  | 5tka w kolorze                                            |
-| 1    | NT    | 15-17  | Brak starszej 5tki, brak młodszej 6tki, zrównoważona ręka |
+| 1    | ♣️    | 11-17  | Brak starszej 5tki, #♣️ > #♦️ *                           |
+| 1    | ♦️    | 11-17  | Brak starszej 5tki, #♦️ > #♣️ *                           |
+| 1    | ♥️ ♠️  | 11-17  | 5tka w kolorze                                           |
+| 1    | NT    | 15-17  | Brak starszej 5tki, brak młodszej 6tki, zrównoważona ręka|
 
-\* Jeżeli `#♣️ = #♦️` to 1♦️, chyba że `#♣️ = #♦️ = 3` to 1♣️.
+\* Jeżeli #♣️ = #♦️ to 1♦️, chyba że #♣️ = #♦️ = 3 to 1♣️.
 
 Przy dwukolorowym pięciokarcie albo dwukolorowym sześciokarcie (rozkład kart 5-5 lub 6-6) należy otwierać starszym kolorem.
 
@@ -43,16 +43,16 @@ Przy dwukolorowym pięciokarcie albo dwukolorowym sześciokarcie (rozkład kart 
 |      |      | Punkty | Opis                                                      |
 |------|------|--------|-----------------------------------------------------------|
 | 2    | NT   | 18+    | Rozkład jak przy [1NT](#otwarcia-na-poziomie-1)           |
-| 2    | ♣    | 18+    | Rozkład kart nie pozwala na 2NT                           |
+| 2    | ♣️    | 18+    | Rozkład kart nie pozwala na 2NT                           |
 
 ## Otwarcia blokujące
 
 |      |        | Punkty | Opis                                                    |
 |------|--------|--------|---------------------------------------------------------|
-| 2    | ♦ ♥ ♠  | 6-11   | 6 kart w kolorze lub słaby siedmiokart i ręka           |
-| 3    | ♣ ♦ ♥ ♠| 6-11   | 7 kart w kolorze *                                      |
+| 2    | ♦️ ♥️ ♠️    | 6-11   | 6 kart w kolorze lub słaby siedmiokart i ręka           |
+| 3    | ♣️ ♦️ ♥️ ♠️ | 6-11   | 7 kart w kolorze *                                      |
 
-\* 3♣ gra się również prz 6karcie gdyż 2♣ jest [otwarciem mocnym](#otwarcia-mocne).
+\* 3♣️ gra się również prz 6karcie gdyż 2♣️ jest [otwarciem mocnym](#otwarcia-mocne).
 
 ## Pass
 
@@ -62,7 +62,7 @@ Pas następuje gdy żadna z powyższych odzywek nie jest odpowiednia - mało pun
 
 Odzywki które następują po otwarciu przez przeciwnika.
 
-# Licytacja po 1♣♦♥♠
+# Licytacja po 1♣️♦️♥️♠️
 
 # Licytacja po 1NT
 
@@ -70,15 +70,15 @@ Jeśli przeciwnik przelicytuje (odzywką inną niż X) 1NT, dalsze odzywki są n
 
 |      |      | Punkty | Opis                                                         |
 |------|------|--------|--------------------------------------------------------------|
-| 2    | ♣    | 5+     | [Stayman](#stayman)                                          |
-| 2    | ♦    | 5+     | 5tka w kierach, [transfer](#starsze-transfery)               |
-| 2    | ♥    | 5+     | 5tka w pikach, [transfer](#starsze-transfery)                |
-| 2    | ♠    | 5+     | 5tka w ♣ lub 5tka w ♦, [transfer](#młodsze-transfery)        |
+| 2    | ♣️    | 5+     | [Stayman](#stayman)                                          |
+| 2    | ♦️   | 5+     | 5tka w kierach, [transfer](#starsze-transfery)               |
+| 2    | ♥️    | 5+     | 5tka w pikach, [transfer](#starsze-transfery)                |
+| 2    | ♠️    | 5+     | 5tka w ♣ lub 5tka w ♦, [transfer](#młodsze-transfery)        |
 | 2    | NT   | 8-10   | zrównoważona ręka, inwit do 3NT jeśli partner nie ma minimum |
-| 3    | ♣    | 9+     | przynajmniej 6tka w treflach, inwit do 3NT                   |
-| 3    | ♦    | 9+     | przynajmniej 6tka w karach, inwit do 3NT                     |
-| 3    | ♥    | 14+    | przynajmniej 6tka w kierach, zainteresowanie szlemikiem *    |
-| 3    | ♠    | 14+    | przynajmniej 6tka w pikach, zainteresowanie szlemikiem *     |
+| 3    | ♣️    | 9+     | przynajmniej 6tka w treflach, inwit do 3NT                   |
+| 3    | ♦️    | 9+     | przynajmniej 6tka w karach, inwit do 3NT                     |
+| 3    | ♥️    | 14+    | przynajmniej 6tka w kierach, zainteresowanie szlemikiem *    |
+| 3    | ♠️    | 14+    | przynajmniej 6tka w pikach, zainteresowanie szlemikiem *     |
 | 3    | NT   | 11-12  | zrównoważona ręka bez starszej czwórki, zamyka licytację     |
 
 /* przy braku sześciokartu i silnej ręce, należy użyć transferów
@@ -87,20 +87,20 @@ Jeśli przeciwnik przelicytuje (odzywką inną niż X) 1NT, dalsze odzywki są n
 
 |      |      | Punkty | Opis                                                             |
 |------|------|--------|------------------------------------------------------------------|
-| 3    | ♣    | 5+     | [Stayman](#stayman)                                              |
-| 3    | ♦    | 5+     | 5tka w kierach, [transfer](#starsze-transfery)                   |
-| 3    | ♥    | 5+     | 5tka w pikach, [transfer](#starsze-transfery)                    |
-| 3    | ♠    | 5+     | 5tka w ♣ lub 5tka w ♦, [transfer](#młodsze-transfery)            |
+| 3    | ♣️    | 5+     | [Stayman](#stayman)                                              |
+| 3    | ♦️    | 5+     | 5tka w kierach, [transfer](#starsze-transfery)                   |
+| 3    | ♥️    | 5+     | 5tka w pikach, [transfer](#starsze-transfery)                    |
+| 3    | ♠️    | 5+     | 5tka w ♣️ lub 5tka w ♦️, [transfer](#młodsze-transfery)            |
 | 3    | NT   | 8-9    | zrównoważona ręka bez starszej czwórki*                          |
-| 4    | ♣    | 10+    | brak piątki i starszej czwórki, zrównoważona ręka, pytanie o asy |
+| 4    | ♣️    | 10+    | brak piątki i starszej czwórki, zrównoważona ręka, pytanie o asy |
 
 /* nie zamyka licytacji przy nadwyżkach partnera
 
 ## Transfery i Stayman.
 
-Transfery oraz Stayman zakładają PASS lub kontrę przeciwnika po odzywce w NT partnera (np. `1NT->PASS->...` lub `1NT->X->...`). Przy innych odzywkach przerywających odpowiedzi są naturalne prócz odpowiedzi w kolor przeciwnika, oznaczającej szansę na partię (np. `1NT->2♦->2♥` - 4+ kiery, natomiast `1NT->2♦->3♦` - szansa na partię bez wskazówek nt. rozkładu).
+Transfery oraz Stayman zakładają PASS lub kontrę przeciwnika po odzywce w NT partnera (np. `1NT->PASS->...` lub `1NT->X->...`). Przy innych odzywkach przerywających odpowiedzi są naturalne prócz odpowiedzi w kolor przeciwnika, oznaczającej szansę na partię (np. `1NT->2♦️->2♥️` - 4+ kiery, natomiast `1NT->2♦️->3♦️` - szansa na partię bez wskazówek nt. rozkładu).
 
-Po odzywce przeciwnika po sztucznej odpowiedzi potwierdzenie transferu oznacza prawdziwe popracie w kolorze (3+ kart), natomiast PASS oznacza dwukart. (`1NT->PASS->2♦->X->2♥ - 3+ karty w kierach`, natomiast `1NT->PASS->2♦->X->PASS - 2 karty w kierach, teraz zgłaszający 2♦ może wybrać właściwy kontrakt`)
+Po odzywce przeciwnika po sztucznej odpowiedzi potwierdzenie transferu oznacza prawdziwe popracie w kolorze (3+ kart), natomiast PASS oznacza dwukart. (`1NT->PASS->2♦️->X->2♥️ - 3+ karty w kierach`, natomiast `1NT->PASS->2♦️->X->PASS - 2 karty w kierach, teraz zgłaszający 2♦️ może wybrać właściwy kontrakt`)
 
 Konwencja zakłada słabą wersję Staymana i transferów, tj. z założeniem, że licytacja może zakończyć się na poziomie 2, stąd od zgłaszającego Staymana lub transfer wymaga się 5+ punktów (co wraz z ręką 1NT daje 20+ punktów)*
 
