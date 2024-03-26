@@ -29,12 +29,12 @@ Otwarcie zasadniczo zerżnięte z SAYC'a jak zresztą całość konwencji.
 
 |      |      | Punkty | Opis                                                      |
 |------|------|--------|-----------------------------------------------------------|
-| 1    | `:clubs:` |    | 11-17  | Brak starszej 5tki, `#♣ > #♦` *                 |
-| 1    | `:diamonds:`    | 11-17  | Brak starszej 5tki, `#♦ > #♣` *                           |
-| 1    | ♠ ♥  | 11-17  | 5tka w kolorze                                            |
-| 1    | NT   | 15-17  | Brak starszej 5tki, brak młodszej 6tki, zrównoważona ręka |
+| 1    | ♣️    | 11-17  | Brak starszej 5tki, `#♣️ > #♦️` *                 |
+| 1    | ♦️    | 11-17  | Brak starszej 5tki, `#♦️ > #♣️` *                           |
+| 1    | ♥️ ♠️  | 11-17  | 5tka w kolorze                                            |
+| 1    | NT    | 15-17  | Brak starszej 5tki, brak młodszej 6tki, zrównoważona ręka |
 
-\* Jeżeli `#♣ = #♦` to 1♦, chyba że `#♣ = #♦ = 3` to 1♣.
+\* Jeżeli `#♣️ = #♦️` to 1♦️, chyba że `#♣️ = #♦️ = 3` to 1♣️.
 
 Przy dwukolorowym pięciokarcie albo dwukolorowym sześciokarcie (rozkład kart 5-5 lub 6-6) należy otwierać starszym kolorem.
 
