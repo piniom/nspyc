@@ -151,9 +151,7 @@ Odpowiedź na potwierdzenie transferu kierowego: (np. `1NT->PASS->2♦->PASS->2�
 
 Poniższa sekcja opisuje odpowiedzi po transferach na młodsze kolory, tj. sekwencję licytacji `1NT->PASS->2♠`, co może być transferem na trefle lub kara.
 
-Teraz otwierający musi odpowiedzieć 3♣, na co partner pasuje przy pięciokarcie w treflach lub zmienia na 3♦ przy pięciokarcie w karach. (np. `1NT->PASS->2♦->PASS->2♠->PASS-3♣ - obowiązkowe->PASS` - odpowiadający ma pięciokart w treflach) (np. `1NT->PASS->2♦->PASS->2♠->PASS-3♣ - obowiązkowe->PASS->3♦` - odpowiadający ma pięciokart w karach)
-
-<!-- TODO:  -->
+Teraz otwierający musi odpowiedzieć 3♣, na co partner pasuje przy pięciokarcie w treflach lub zmienia na 3♦ przy pięciokarcie w karach. (np. `1NT->PASS->2♠->PASS-3♣ - obowiązkowe->PASS` - odpowiadający ma pięciokart w treflach) (np. `1NT->PASS->2♠->PASS-3♣ - obowiązkowe->PASS->3♦` - odpowiadający ma pięciokart w karach)
 
 # Odpowiedzi po 2♣
 
