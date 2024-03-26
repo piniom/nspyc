@@ -29,8 +29,8 @@ Otwarcie zasadniczo zerżnięte z SAYC'a jak zresztą całość konwencji.
 
 |      |      | Punkty | Opis                                                      |
 |------|------|--------|-----------------------------------------------------------|
-| 1    | ♣    | 11-17  | Brak starszej 5tki, `#♣ > #♦` *                           |
-| 1    | ♦    | 11-17  | Brak starszej 5tki, `#♦ > #♣` *                           |
+| 1    | `:clubs:` |    | 11-17  | Brak starszej 5tki, `#♣ > #♦` *                 |
+| 1    | `:diamonds:`    | 11-17  | Brak starszej 5tki, `#♦ > #♣` *                           |
 | 1    | ♠ ♥  | 11-17  | 5tka w kolorze                                            |
 | 1    | NT   | 15-17  | Brak starszej 5tki, brak młodszej 6tki, zrównoważona ręka |
 
