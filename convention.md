@@ -66,7 +66,7 @@ Odzywki które następują po otwarciu przez przeciwnika.
 
 # Licytacja po 1NT
 
-Jeśli przeciwnik przelicytuje (odzywką inną niż X) 1NT, dalsze odzywki są naturalne wyłączając odzwykę w kolor przeciwnika, oznaczającą siłę na partię (np. `1NT->2♦->3♦ - rezerwa punktowa na partię`).
+Jeśli przeciwnik przelicytuje (odzywką inną niż X) 1NT, dalsze odzywki są naturalne wyłączając odzwykę w kolor przeciwnika, oznaczającą siłę na partię (np. **1NT->2♦️->3♦️ - rezerwa punktowa na partię**).
 
 |      |      | Punkty | Opis                                                         |
 |------|------|--------|--------------------------------------------------------------|
@@ -98,25 +98,25 @@ Jeśli przeciwnik przelicytuje (odzywką inną niż X) 1NT, dalsze odzywki są n
 
 ## Transfery i Stayman.
 
-Transfery oraz Stayman zakładają PASS lub kontrę przeciwnika po odzywce w NT partnera (np. `1NT->PASS->...` lub `1NT->X->...`). Przy innych odzywkach przerywających odpowiedzi są naturalne prócz odpowiedzi w kolor przeciwnika, oznaczającej szansę na partię (np. `1NT->2♦️->2♥️` - 4+ kiery, natomiast `1NT->2♦️->3♦️` - szansa na partię bez wskazówek nt. rozkładu).
+Transfery oraz Stayman zakładają PASS lub kontrę przeciwnika po odzywce w NT partnera (np. **1NT->PASS->...** lub **1NT->X->...**). Przy innych odzywkach przerywających odpowiedzi są naturalne prócz odpowiedzi w kolor przeciwnika, oznaczającej szansę na partię (np. **1NT->2♦️->2♥️ - 4+ kiery**, natomiast **1NT->2♦️->3♦️** - szansa na partię bez wskazówek nt. rozkładu).
 
-Po odzywce przeciwnika po sztucznej odpowiedzi potwierdzenie transferu oznacza prawdziwe popracie w kolorze (3+ kart), natomiast PASS oznacza dwukart. (`1NT->PASS->2♦️->X->2♥️ - 3+ karty w kierach`, natomiast `1NT->PASS->2♦️->X->PASS - 2 karty w kierach, teraz zgłaszający 2♦️ może wybrać właściwy kontrakt`)
+Po odzywce przeciwnika po sztucznej odpowiedzi potwierdzenie transferu oznacza prawdziwe popracie w kolorze (3+ kart), natomiast PASS oznacza dwukart. (**1NT->PASS->2♦️->X->2♥️ - 3+ karty w kierach**, natomiast **1NT->PASS->2♦️->X->PASS - 2 karty w kierach, teraz zgłaszający 2♦️ może wybrać właściwy kontrakt**)
 
 Konwencja zakłada słabą wersję Staymana i transferów, tj. z założeniem, że licytacja może zakończyć się na poziomie 2, stąd od zgłaszającego Staymana lub transfer wymaga się 5+ punktów (co wraz z ręką 1NT daje 20+ punktów)*
 
 ## Stayman
 
-Grany po `1NT->PASS-2♣` lub `2NT->PASS-3♣` oraz przy kontrze zamiast PASS przeciwnika.*
+Grany po **1NT->PASS-2♣️** lub **2NT->PASS-3♣️** oraz przy kontrze zamiast PASS przeciwnika.*
 
 |      |   | Opis                                                    |
 |------|---|---------------------------------------------------------|
-| 2    | ♦ | Brak starszej czwórki                                   |
-| 2    | ♥ | 4 kiery                                                 |
-| 2    | ♠ | 4 piki, bez 4 kierów                                    |
+| 2    | ♦️ | Brak starszej czwórki                                   |
+| 2    | ♥️ | 4 kiery                                                 |
+| 2    | ♠️ | 4 piki, bez 4 kierów                                    |
 
-Zgłoszenie po odpowiedzi na Staymana młodszego koloru na wysokości 3. jest naturalne i oznacza pięciokart z nadzieją na szlemika. (np. `1NT->PASS->2♣->PASS->2♥->PASS->3♦ - odpowiadający ma nadzieję na szlemika, 15+ pkt`)
+Zgłoszenie po odpowiedzi na Staymana młodszego koloru na wysokości 3. jest naturalne i oznacza pięciokart z nadzieją na szlemika. (np. **1NT->PASS->2♣️->PASS->2♥️->PASS->3♦️ - odpowiadający ma nadzieję na szlemika, 15+ pkt**)
 
-Po niekontrującej odzywce przeciwnika między Staymanem a odpowiedzią, odzywki zostawiają znaczenie, ewentualnie podnosi się je o 1 (np. `1NT->PASS->2♣->2♠->3♥ - oznacza 4 kiery`, `1NT->PASS->2♣->2♠->3♣ - oznacza 4+ trefle`, `1NT->PASS->2♣->2♠->3♦ - oznacza 4+ kara`)
+Po niekontrującej odzywce przeciwnika między Staymanem a odpowiedzią, odzywki zostawiają znaczenie, ewentualnie podnosi się je o 1 (np. **1NT->PASS->2♣️->2♠️->3♥️ - oznacza 4 kiery**, **1NT->PASS->2♣️->2♠️->3♣️ - oznacza 4+ trefle**, **1NT->PASS->2♣️->2♠️->3♦️ - oznacza 4+ kara**`)
 
 \* Dla 2NT poziomy w powyższej tabeli należy podnieść o 1. 
 
@@ -124,24 +124,24 @@ Po niekontrującej odzywce przeciwnika między Staymanem a odpowiedzią, odzywki
 
 Poniższa sekcja opisuje odpowiedzi po transferach na starsze kolory (Jacoby transfers).
 
-Odpowiedź na transfer kierowy `1NT->PASS->2♦->PASS->...`:*
+Odpowiedź na transfer kierowy **1NT->PASS->2♦️->PASS->...**:
 
 |      |   | Opis                                                    |
 |------|---|---------------------------------------------------------|
-| 2    | ♥ | obligatoryjne potwierdzenie, bez specjalnej siły        |
-| 3    | ♥ | 4 kiery i 17 punktów                                    |
+| 2    | ♥️ | obligatoryjne potwierdzenie, bez specjalnej siły        |
+| 3    | ♥️ | 4 kiery i 17 punktów                                    |
 
-Odpowiedź na potwierdzenie transferu kierowego: (np. `1NT->PASS->2♦->PASS->2♥->PASS->`)*:
+Odpowiedź na potwierdzenie transferu kierowego: (np. **1NT->PASS->2♦️->PASS->2♥️->PASS->...**)*:
 
 |      |    | Opis                                                                         |
 |------|----|------------------------------------------------------------------------------|
 | PASS |    | 0-7 pkt                                                                      |
-| 2    | NT | inwit do partii, otwierający wybiera między 2NT, 3♥ **, 3NT, 4♥              |
-| 3    | ♣  | 4+ trefle, forsujące do partii                                               |
-| 3    | ♦  | 4+ kara, forsujące do partii                                                 |
-| 3    | ♥  | 6tka kierów, inwit do partii, otwierający wybiera między 3♥ **, 3NT, 4♥      |
-| 3    | ♠  | 4+ kara, forsujące do partii                                                 |
-| 4    | ♥  | odzywka zamykająca                                                           |
+| 2    | NT | inwit do partii, otwierający wybiera między 2NT, 3♥️ **, 3NT, 4♥️             |
+| 3    | ♣️  | 4+ trefle, forsujące do partii                                               |
+| 3    | ♦️  | 4+ kara, forsujące do partii                                                 |
+| 3    | ♥️  | 6tka kierów, inwit do partii, otwierający wybiera między 3♥️ **, 3NT, 4♥️     |
+| 3    | ♠️  | 4+ kara, forsujące do partii                                                 |
+| 4    | ♥️  | odzywka zamykająca                                                           |
 
 \* analogicznie odpowiada się na transfer na piki
 
@@ -149,51 +149,51 @@ Odpowiedź na potwierdzenie transferu kierowego: (np. `1NT->PASS->2♦->PASS->2�
 
 ## Młodsze transfery
 
-Poniższa sekcja opisuje odpowiedzi po transferach na młodsze kolory, tj. sekwencję licytacji `1NT->PASS->2♠`, co może być transferem na trefle lub kara.
+Poniższa sekcja opisuje odpowiedzi po transferach na młodsze kolory, tj. sekwencję licytacji **1NT->PASS->2♠️**, co może być transferem na trefle lub kara.
 
-Teraz otwierający musi odpowiedzieć 3♣, na co partner pasuje przy pięciokarcie w treflach lub zmienia na 3♦ przy pięciokarcie w karach. (np. `1NT->PASS->2♠->PASS-3♣ - obowiązkowe->PASS` - odpowiadający ma pięciokart w treflach) (np. `1NT->PASS->2♠->PASS-3♣ - obowiązkowe->PASS->3♦` - odpowiadający ma pięciokart w karach)
+Teraz otwierający musi odpowiedzieć 3♣️, na co partner pasuje przy pięciokarcie w treflach lub zmienia na 3♦ przy pięciokarcie w karach. (np. **1NT->PASS->2♠️->PASS-3♣️ - obowiązkowe->PASS->PASS - odpowiadający ma pięciokart w treflach**, **1NT->PASS->2♠️->PASS-3♣️ - obowiązkowe->PASS->3♦️ - odpowiadający ma pięciokart w karach**)
 
-# Odpowiedzi po 2♣
+# Odpowiedzi po 2♣️
 
 |      |   | Opis                                                    |
 |------|---|---------------------------------------------------------|
-| 2    | ♦ | odzwyka wyczekująca*                                    |
-| 2    | ♥ | 5 kierów, 8+ punktów                                    |
-| 2    | ♠ | 5 pików, 8+ punktów                                     |
+| 2    | ♦️ | odzwyka wyczekująca*                                    |
+| 2    | ♥️ | 5 kierów, 8+ punktów                                    |
+| 2    | ♠️ | 5 pików, 8+ punktów                                     |
 | 2    | NT| zrównoważona ręka, 8 punktów                            |
-| 3    | ♣ | 5 trefli, 8+ punktów                                    |
-| 3    | ♦ | 5 kar, 8+ punktów                                       |
+| 3    | ♣️ | 5 trefli, 8+ punktów                                    |
+| 3    | ♦️ | 5 kar, 8+ punktów                                       |
 
 # Odpowiedzi po blokach
 
-Poniższa sekcja opisuje odpowiedzi po 2♦♥♠ i 3♣♦♥♠
+Poniższa sekcja opisuje odpowiedzi po 2♦️♥️♠️ i 3♣️♦️♥️♠️
 
 # Licytowanie szlema i szlemika
 
 ## Pytania o asy
-Pytaniem o asy jest 4 ♣ chyba, że kontekst na to nie pozwala to wtedy 4NT. (np. ♣ jest ustalonym kolorem i 4 ♣ może być rozumiane jako invit do partii). 
+Pytaniem o asy jest 4♣️ chyba, że kontekst na to nie pozwala to wtedy 4NT. (np. ♣️ jest ustalonym kolorem i 4♣️ może być rozumiane jako inwit do partii). 
 
-### Odpowiedzi po 4 ♣
+### Odpowiedzi po 4♣️
 
 |      |   | Liczba asów                                 |
 |------|---|---------------------------------------------|
-| 4    | ♦ | 0 lub 3                                     |
-| 4    | ♥ | 1 lub 4                                     |
-| 4    | ♠ | 2 bez króla atu *                           |
+| 4    | ♦️ | 0 lub 3                                     |
+| 4    | ♥️ | 1 lub 4                                     |
+| 4    | ♠️ | 2 bez króla atu *                           |
 | 4    | NT| 2 z królem atu *                            |
 
-\* W przypadku gry w NT odzywką jest 4 ♠
+\* W przypadku gry w NT odzywką jest 4 ♠️
 
 ### Odpowiedzi po 4 NT
 
-Odpowiedzi po 4 NT są podobne ale odpowiednio przesunięte w stosunku do tych po 4♣.
+Odpowiedzi po 4 NT są podobne ale odpowiednio przesunięte w stosunku do tych po 4♣️.
 
 |      |   | Liczba asów                                 |
 |------|---|---------------------------------------------|
-| 5    | ♣ | 0 lub 3                                     |
-| 5    | ♦ | 1 lub 4                                     |
-| 5    | ♥ | 2 bez króla atu *                           |
-| 5    | ♠ | 2 z królem atu *                            |
+| 5    | ♣️ | 0 lub 3                                     |
+| 5    | ♦️ | 1 lub 4                                     |
+| 5    | ♥️ | 2 bez króla atu *                           |
+| 5    | ♠️ | 2 z królem atu *                            |
 
 \* W przypadku gry w NT odzywką jest 5 ♥
 
