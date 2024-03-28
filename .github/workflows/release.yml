@@ -6,7 +6,7 @@ on:
       - master
 env:
   REGISTRY: ghcr.io
-  IMAGE_NAME: ${{ github.actor }}/nspyc-pandoc
+  IMAGE_NAME: piniom/nspyc-pandoc
 
 jobs:
   build:
@@ -26,7 +26,7 @@ jobs:
         uses: docker/login-action@v2
         with:
           registry: ${{ env.REGISTRY }}
-          username: ${{ github.actor }}
+          username: piniom
           password: ${{ secrets.GITHUB_TOKEN }}
 
       - name: Extract Docker metadata 
