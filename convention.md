@@ -164,9 +164,9 @@ Teraz otwierający musi odpowiedzieć 3♣️, na co partner pasuje przy pięcio
 | 3    | ♣️ | 5 trefli, 8+ punktów                                    |
 | 3    | ♦️ | 5 kar, 8+ punktów                                       |
 
-# Odpowiedzi po blokach
+# Odpowiedzi po blokach 2♦️♥️♠️
 
-Poniższa sekcja opisuje odpowiedzi po 2♦️♥️♠️ i 3♣️♦️♥️♠️
+# Odpowiedzi po blokach 3♣️♦️♥️♠️
 
 # Licytowanie szlema i szlemika
 
