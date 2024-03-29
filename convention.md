@@ -21,6 +21,8 @@ Lista pojęć używanych w konwencji i ich znaczenie:
 
 By zrobić partię, strona rozgrywająca winna mieć 26+ PC. Do rogrzywki szlemikowej - około 32+ PC.
 
+Jeśli pomiędzy zgłaszającym odzywkę forsującą a odpowiadającym na nią przeciwnik nie spasuje, odpowiadający ma prawo spasować i oznacza to rękę minimalną dla dotychczasowych ustaleń.
+
 # Otwarcia
 
 Otwarcie zasadniczo zerżnięte z SAYC'a jak zresztą całość konwencji.
@@ -166,7 +168,30 @@ Teraz otwierający musi odpowiedzieć 3♣️, na co partner pasuje przy pięcio
 
 # Odpowiedzi po blokach 2♦️♥️♠️
 
+Przykładowe odpowiedzi po bloku 2♥️*:
+
+|      |   | Opis                                                    |
+|------|---|---------------------------------------------------------|
+| 2    | ♠️ | 13+ punktów, 5 pików, odzywka forsująca na jedną turę  |
+| 2    | NT | zainteresowanie partią, odzywka forsująca              |
+| 3    | ♣️ | 13+ punktów, 5 trefli, odzywka forsująca na jedną turę |
+| 3    | ♦️ | 13+ punktów, 5 kar, odzywka forsująca na jedną turę    |
+| 2    | ♥️ | 8-10 punktów, wsparcie bloku                           |
+
+Otwierający popiera odpowiadającego na poziomie 3 mając 3 karty w kolorze. Powtórzenie swojego koloru oznacza rękę minimalną (5-8 punktów). Przy braku poparcia dla koloru odpowiadającego (lub w odpowiedzi na 2NT, użyte w poniższym przykładzie) następuje:
+
+Po licytacji **2♦️->PASS->2NT-zainteresowanie partią, forsujące** (zamiast spasować, przeciwnik może też skontrować). Teraz powtórzenie koloru przez otwierającego oznacza rękę minimalną (5-8 punktów), zgłoszenie innego koloru - asa lub króla w danym kolorze, natomiast podwyższenie na 3NT - 9-11 punktów i brak asów i króli w innych kolorach. Odpowiadający, mając pełną informację o sile na linii, decyduje o kontrakcie lub pyta o asy (tak więc 3NT niekoniecznie kończy licytację).
+
+Np. **2♦️->PASS->2NT-zainteresowanie partią, forsujące->PASS->3♦️-5-8 pkt, minimalna ręka** **
+Np. **2♦️->PASS->2NT-zainteresowanie partią, forsujące->PASS->3♠️-9-11pkt, as lub król pik, brak wskazówki nt. liczby pików!**
+Np. **2♦️->PASS->2NT-zainteresowanie partią, forsujące->PASS->3NT-9-11pkt, brak asów i króli (chyba że karo), teraz odpowiadający może spasować, zmienić na partię w kolor (5♦️) lub zapytać o asy (4♣️)**
+
+\* analogiczne zasady stosują się do pozostałych bloków
+\** analogicznie licytuje się przy pozostałych odpowiedziach na blok
+
 # Odpowiedzi po blokach 3♣️♦️♥️♠️
+
+Blok na poziomie 3 (prócz ♣️) oznacza siedmiokart i małe szanse na fit w innym kolorze. Partner odpowiada tylko z nadzieją na przynajmniej partię lub by podtrzymać blok. Poparcie bloku to odzywka słaba i tylko po odzywce przeciwników, pozostałe odzywki są naturalne i wymagają około 16+ punktów (by łącznie móc liczyć na partię).
 
 # Licytowanie szlema i szlemika
 
