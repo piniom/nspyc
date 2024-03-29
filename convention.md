@@ -62,7 +62,7 @@ Pas następuje gdy żadna z powyższych odzywek nie jest odpowiednia - mało pun
 
 # Otwarcie przeciwnika
 
-Odzywki które następują po otwarciu przez przeciwnika.
+Odzywka w kolor to 9-16 punktów i 5tka we wskazanym kolorze. Odzywka w NT to zrównoważony rozkład i 9-16 punktów. X oznacza 11-16 punktów i wsparcie w pozostałych kolorach. Odzywka w kolor przeciwnika oznacza 17+ punktów, bez wskazówek nt. rozkładu.
 
 # Licytacja po 1♣️♦️♥️♠️
 
