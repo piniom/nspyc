@@ -81,16 +81,16 @@ Na inną niż PASS lub X odzywkę przeciwnika, jeśli jest to pierwsza odzywka d
 
 |      |      | Punkty | Opis                                                      |
 |------|------|--------|-----------------------------------------------------------|
-| 1    | ♠️    | 6+     | przynajmniej cztery piki                                    |
+| 1    | ♠️    | 6+     | przynajmniej cztery piki                                 |
 | 1    | 1NT    | 6-9  | nie ma czwórki w pikach ani poparcia (trójki) w kierach   |
-| 2    | ♣️♦️   | 10+   | przynajmniej czwórka w zgłaszanym kolorze                  |
+| 2    | ♣️♦️   | 10+   | przynajmniej czwórka w zgłaszanym kolorze                 |
 | 2    | ♥️    | 6-10   | 3+ kiery                                                  |
-| 2    | NT    | 13+   | forsujące do partii [Jacoby 2NT](#jacoby-2NT)*              |
-| 2    | ♠️    | 16+    | 4+ piki, zaproszenie do szlema       |
-| 3    | ♣️    | 16+    | 4+ trefle, zaproszenie do szlema     |
-| 3    | ♦️    | 16+    | 4+ kara, zaproszenie do szlema       |
-| 3    | ♥️    | 10-11  | 3+ kiery |
-| 3    | NT    | 15-17  | 2 kiery, zrównoważona ręka |
+| 2    | NT    | 13+   | forsujące do partii [Jacoby 2NT](#jacoby-2NT)              |
+| 2    | ♠️    | 16+    | 4+ piki, zaproszenie do szlema                            |
+| 3    | ♣️    | 16+    | 4+ trefle, zaproszenie do szlema                          |
+| 3    | ♦️    | 16+    | 4+ kara, zaproszenie do szlema                            |
+| 3    | ♥️    | 10-11  | 3+ kiery                                                  |
+| 3    | NT    | 15-17  | 2 kiery, zrównoważona ręka                                |
 
 ## Jacoby 2NT
 
@@ -104,7 +104,7 @@ Poniższa sekcja zawiera odpowiedzi po licytacji **1♥️->PASS->2NT->PASS** (a
 | 4♥️     | 11-13   | ręka minimum                                              |
 | 4♣️♦️   | 11-13   | przynajmniej czwórka w zgłaszanym kolorze, inwit do partii |
 
-/* 3♣️ jako odzywka sztuczna nie wyłącza możliwości pytania o asy poprzez 4♣️
+\* 3♣️ jako odzywka sztuczna nie wyłącza możliwości pytania o asy poprzez 4♣️
 
 ## Licytacja po 1♣️♦️
 
@@ -119,7 +119,7 @@ Poniższa tabela zawiera odpowiedzi na 1♦️; odpowiedzi na 1♣️ są analog
 | 2    | ♦️   | 6-10   | 4+ kara                                                   |
 | 2    | ♥️    | 16+    | 4+ kiery, zaproszenie do szlema                          |
 | 2    | ♠️    | 16+    | 4+ piki, zaproszenie do szlema                           |
-| 2    | NT    | 13+   | forsujące do partii [Jacoby 2NT](#jacoby-2NT)*            |
+| 2    | NT    | 13+   | forsujące do partii [Jacoby 2NT](#jacoby-2NT)             |
 | 3    | ♣️    | 16+    | 4+ trefle, zaproszenie do szlema                         |
 | 3    | ♥️    | 10-11  | 3+ kiery                                                 |
 | 3    | NT    | 15-17  | 2 kara, zrównoważona ręka                                |
@@ -141,7 +141,7 @@ Jeśli przeciwnik przelicytuje (odzywką inną niż X) 1NT, dalsze odzywki są n
 | 3    | ♠️    | 14+    | przynajmniej 6tka w pikach, zainteresowanie szlemikiem *     |
 | 3    | NT   | 11-12  | zrównoważona ręka bez starszej czwórki, zamyka licytację     |
 
-/* przy braku sześciokartu i silnej ręce, należy użyć transferów
+\* przy braku sześciokartu i silnej ręce, należy użyć transferów
 
 ## Licytacja po 2NT
 
@@ -154,7 +154,7 @@ Jeśli przeciwnik przelicytuje (odzywką inną niż X) 1NT, dalsze odzywki są n
 | 3    | NT   | 8-9    | zrównoważona ręka bez starszej czwórki*                          |
 | 4    | ♣️    | 10+    | brak piątki i starszej czwórki, zrównoważona ręka, pytanie o asy |
 
-/* nie zamyka licytacji przy nadwyżkach partnera
+\* nie zamyka licytacji przy nadwyżkach partnera
 
 ## Transfery i Stayman.
 
