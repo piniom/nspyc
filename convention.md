@@ -17,40 +17,46 @@ Lista pojęć używanych w konwencji i ich znaczenie:
 - **Kolory starsze** - kier i pik.
 - **Kolory młodsze** - trefl i karo.
 
-# Założenia
+## Założenia
 
 By zrobić partię, strona rozgrywająca winna mieć 26+ PC. Do rogrzywki szlemikowej - około 32+ PC.
 
-# Otwarcia
+Jeśli pomiędzy zgłaszającym odzywkę forsującą a odpowiadającym na nią przeciwnik nie spasuje, odpowiadający ma prawo spasować i oznacza to rękę minimalną dla dotychczasowych ustaleń.
 
-Otwarcie zasadniczo zerżnięte z SAYC'a jak zresztą całość konwencji.
+Powtórzenie zgłaszanego koloru oznacza +1 do długości, jeśli konwencja nie musi inaczej.
+
+Przy dwukolorowym pięciokarcie albo dwukolorowym sześciokarcie (rozkład kart 5-5 lub 6-6) należy otwierać starszym kolorem.
+
+Z wszystkich kontraktów, które **idą** i które dają partię szansa, że będzie to 5♣️ lub 5♦️ jest dość mała; konwencja faworyzuje licytowanie w starszych kolorach i w NT.
+
+## Otwarcia
+
+Otwarcie zasadniczo zaczerpnięte z SAYC'a jak zresztą całość konwencji.
 
 ## Otwarcia na poziomie 1
 
 |      |      | Punkty | Opis                                                      |
 |------|------|--------|-----------------------------------------------------------|
-| 1    | ♣️    | 11-17  | Brak starszej 5tki, #♣️ > #♦️ *                           |
-| 1    | ♦️    | 11-17  | Brak starszej 5tki, #♦️ > #♣️ *                           |
-| 1    | ♥️ ♠️  | 11-17  | 5tka w kolorze                                           |
+| 1    | ♣️    | 11-19  | Brak starszej 5tki, #♣️ > #♦️ *                           |
+| 1    | ♦️    | 11-19  | Brak starszej 5tki, #♦️ > #♣️ *                           |
+| 1    | ♥️ ♠️  | 11-19  | 5tka w kolorze                                           |
 | 1    | NT    | 15-17  | Brak starszej 5tki, brak młodszej 6tki, zrównoważona ręka|
 
 \* Jeżeli #♣️ = #♦️ to 1♦️, chyba że #♣️ = #♦️ = 3 to 1♣️.
-
-Przy dwukolorowym pięciokarcie albo dwukolorowym sześciokarcie (rozkład kart 5-5 lub 6-6) należy otwierać starszym kolorem.
 
 ## Otwarcia mocne
 
 |      |      | Punkty | Opis                                                      |
 |------|------|--------|-----------------------------------------------------------|
 | 2    | NT   | 18+    | Rozkład jak przy [1NT](#otwarcia-na-poziomie-1)           |
-| 2    | ♣️    | 18+    | Rozkład kart nie pozwala na 2NT                           |
+| 2    | ♣️    | 21+    | Rozkład kart nie pozwala na 2NT                           |
 
 ## Otwarcia blokujące
 
 |      |        | Punkty | Opis                                                    |
 |------|--------|--------|---------------------------------------------------------|
-| 2    | ♦️ ♥️ ♠️    | 6-11   | 6 kart w kolorze lub słaby siedmiokart i ręka           |
-| 3    | ♣️ ♦️ ♥️ ♠️ | 6-11   | 7 kart w kolorze *                                      |
+| 2    | ♦️ ♥️ ♠️    | 6-11   | 6 kart w kolorze lub słaby siedmiokart i ręka       |
+| 3    | ♣️ ♦️ ♥️ ♠️ | 6-11   | 7 kart w kolorze *                                  |
 
 \* 3♣️ gra się również prz 6karcie gdyż 2♣️ jest [otwarciem mocnym](#otwarcia-mocne).
 
@@ -58,13 +64,67 @@ Przy dwukolorowym pięciokarcie albo dwukolorowym sześciokarcie (rozkład kart 
 
 Pas następuje gdy żadna z powyższych odzywek nie jest odpowiednia - mało punktów bez możliwości [bloku](#otwarcia-blokujące).
 
-# Otwarcie przeciwnika
+## Otwarcie przeciwnika
 
-Odzywki które następują po otwarciu przez przeciwnika.
+Na inną niż PASS lub X odzywkę przeciwnika, jeśli jest to pierwsza odzywka danego partnera:
 
-# Licytacja po 1♣️♦️♥️♠️
+|                             | Opis                                                      |
+|-----------------------------|-----------------------------------------------------------|
+| X                           | 17+ punktów, silna ręka                                   |    
+| odzywka w kolor przeciwnika | 11+ punktów, poparcie dla partnera w pozostałych kolorach |
+| NT                          | 9+ punktów, ręka zrównoważona                             |
+| własny kolor                | 8+ punktów, 5tka w zadanym kolorze                        |   
 
-# Licytacja po 1NT
+## Licytacja po 1♥️♠️
+
+1♥️♠️ zakłada pięciokart w kolorze otwarcia. Poniższa tabela zawiera odpowiedzi na 1♥️; odpowiedzi na 1♠️ są analogiczne.
+
+|      |      | Punkty | Opis                                                      |
+|------|------|--------|-----------------------------------------------------------|
+| 1    | ♠️    | 6+     | przynajmniej cztery piki                                 |
+| 1    | 1NT    | 6-9  | nie ma czwórki w pikach ani poparcia (trójki) w kierach   |
+| 2    | ♣️♦️   | 10+   | przynajmniej czwórka w zgłaszanym kolorze                 |
+| 2    | ♥️    | 6-10   | 3+ kiery                                                  |
+| 2    | NT    | 13+   | forsujące do partii [Jacoby 2NT](#jacoby-2NT)              |
+| 2    | ♠️    | 16+    | 4+ piki, zaproszenie do szlema                            |
+| 3    | ♣️    | 16+    | 4+ trefle, zaproszenie do szlema                          |
+| 3    | ♦️    | 16+    | 4+ kara, zaproszenie do szlema                            |
+| 3    | ♥️    | 10-11  | 3+ kiery                                                  |
+| 3    | NT    | 15-17  | 2 kiery, zrównoważona ręka                                |
+
+## Jacoby 2NT
+
+Poniższa sekcja zawiera odpowiedzi po licytacji **1♥️->PASS->2NT->PASS** (analogicznie należy odpowiadać po **1♠️->PASS->2NT->PASS**, przy odwórconych znaczeniach ♠️ i ♥️)
+
+|         | Punkty | Opis                                                      |
+|---------|--------|-----------------------------------------------------------|
+| 3♣️*♦️♠️ | 11+    | singiel lub renans w kolorze                              |
+| 3♥️     | 18+    | ręka maksimum                                              |
+| 3NT     | 15-17  | ręka o średniej sile, nie musi zamykać licytacji          |
+| 4♥️     | 11-13   | ręka minimum                                              |
+| 4♣️♦️   | 11-13   | przynajmniej czwórka w zgłaszanym kolorze, inwit do partii |
+
+\* 3♣️ jako odzywka sztuczna nie wyłącza możliwości pytania o asy poprzez 4♣️
+
+## Licytacja po 1♣️♦️
+
+Poniższa tabela zawiera odpowiedzi na 1♦️; odpowiedzi na 1♣️ są analogiczne.
+
+|      |      | Punkty | Opis                                                      |
+|------|------|--------|-----------------------------------------------------------|
+| 1    | ♥️    | 6+     | 4+ kiery                                                 |
+| 1    | ♠️    | 6+     | 4+ piki                                                  |
+| 1    | 1NT    | 6-9  | nie ma starszej czwórki ani czwórki w kolorze partnera    |
+| 2    | ♣️    | 6-9    | 4+ trefle                                                |
+| 2    | ♦️   | 6-10   | 4+ kara                                                   |
+| 2    | ♥️    | 16+    | 4+ kiery, zaproszenie do szlema                          |
+| 2    | ♠️    | 16+    | 4+ piki, zaproszenie do szlema                           |
+| 2    | NT    | 13+   | forsujące do partii [Jacoby 2NT](#jacoby-2NT)             |
+| 3    | ♣️    | 16+    | 4+ trefle, zaproszenie do szlema                         |
+| 3    | ♥️    | 10-11  | 3+ kiery                                                 |
+| 3    | NT    | 15-17  | 2 kara, zrównoważona ręka                                |
+
+## Licytacja po 1NT
 
 Jeśli przeciwnik przelicytuje (odzywką inną niż X) 1NT, dalsze odzywki są naturalne wyłączając odzwykę w kolor przeciwnika, oznaczającą siłę na partię (np. **1NT->2♦️->3♦️ - rezerwa punktowa na partię**).
 
@@ -81,9 +141,9 @@ Jeśli przeciwnik przelicytuje (odzywką inną niż X) 1NT, dalsze odzywki są n
 | 3    | ♠️    | 14+    | przynajmniej 6tka w pikach, zainteresowanie szlemikiem *     |
 | 3    | NT   | 11-12  | zrównoważona ręka bez starszej czwórki, zamyka licytację     |
 
-/* przy braku sześciokartu i silnej ręce, należy użyć transferów
+\* przy braku sześciokartu i silnej ręce, należy użyć transferów
 
-# Licytacja po 2NT
+## Licytacja po 2NT
 
 |      |      | Punkty | Opis                                                             |
 |------|------|--------|------------------------------------------------------------------|
@@ -94,7 +154,7 @@ Jeśli przeciwnik przelicytuje (odzywką inną niż X) 1NT, dalsze odzywki są n
 | 3    | NT   | 8-9    | zrównoważona ręka bez starszej czwórki*                          |
 | 4    | ♣️    | 10+    | brak piątki i starszej czwórki, zrównoważona ręka, pytanie o asy |
 
-/* nie zamyka licytacji przy nadwyżkach partnera
+\* nie zamyka licytacji przy nadwyżkach partnera
 
 ## Transfery i Stayman.
 
@@ -153,7 +213,7 @@ Poniższa sekcja opisuje odpowiedzi po transferach na młodsze kolory, tj. sekwe
 
 Teraz otwierający musi odpowiedzieć 3♣️, na co partner pasuje przy pięciokarcie w treflach lub zmienia na 3♦ przy pięciokarcie w karach. (np. **1NT->PASS->2♠️->PASS-3♣️ - obowiązkowe->PASS->PASS - odpowiadający ma pięciokart w treflach**, **1NT->PASS->2♠️->PASS-3♣️ - obowiązkowe->PASS->3♦️ - odpowiadający ma pięciokart w karach**)
 
-# Odpowiedzi po 2♣️
+## Odpowiedzi po 2♣️
 
 |      |   | Opis                                                    |
 |------|---|---------------------------------------------------------|
@@ -164,16 +224,39 @@ Teraz otwierający musi odpowiedzieć 3♣️, na co partner pasuje przy pięcio
 | 3    | ♣️ | 5 trefli, 8+ punktów                                    |
 | 3    | ♦️ | 5 kar, 8+ punktów                                       |
 
-# Odpowiedzi po blokach
+## Odpowiedzi po blokach 2♦️♥️♠️
 
-Poniższa sekcja opisuje odpowiedzi po 2♦️♥️♠️ i 3♣️♦️♥️♠️
+Przykładowe odpowiedzi po bloku 2♥️*:
 
-# Licytowanie szlema i szlemika
+|      |   | Opis                                                    |
+|------|---|---------------------------------------------------------|
+| 2    | ♠️ | 13+ punktów, 5 pików, odzywka forsująca na jedną turę  |
+| 2    | NT | zainteresowanie partią, odzywka forsująca              |
+| 3    | ♣️ | 13+ punktów, 5 trefli, odzywka forsująca na jedną turę |
+| 3    | ♦️ | 13+ punktów, 5 kar, odzywka forsująca na jedną turę    |
+| 2    | ♥️ | 8-10 punktów, wsparcie bloku                           |
+
+Otwierający popiera odpowiadającego na poziomie 3 mając 3 karty w kolorze. Powtórzenie swojego koloru oznacza rękę minimalną (5-8 punktów). Przy braku poparcia dla koloru odpowiadającego (lub w odpowiedzi na 2NT, użyte w poniższym przykładzie) następuje:
+
+Po licytacji **2♦️->PASS->2NT-zainteresowanie partią, forsujące** (zamiast spasować, przeciwnik może też skontrować). Teraz powtórzenie koloru przez otwierającego oznacza rękę minimalną (5-8 punktów), zgłoszenie innego koloru - asa lub króla w danym kolorze, natomiast podwyższenie na 3NT - 9-11 punktów i brak asów i króli w innych kolorach. Odpowiadający, mając pełną informację o sile na linii, decyduje o kontrakcie lub pyta o asy (tak więc 3NT niekoniecznie kończy licytację).
+
+Np. **2♦️->PASS->2NT-zainteresowanie partią, forsujące->PASS->3♦️-5-8 pkt, minimalna ręka** **
+Np. **2♦️->PASS->2NT-zainteresowanie partią, forsujące->PASS->3♠️-9-11pkt, as lub król pik, brak wskazówki nt. liczby pików!**
+Np. **2♦️->PASS->2NT-zainteresowanie partią, forsujące->PASS->3NT-9-11pkt, brak asów i króli (chyba że karo), teraz odpowiadający może spasować, zmienić na partię w kolor (5♦️) lub zapytać o asy (4♣️)**
+
+\* analogiczne zasady stosują się do pozostałych bloków
+\** analogicznie licytuje się przy pozostałych odpowiedziach na blok
+
+## Odpowiedzi po blokach 3♣️♦️♥️♠️
+
+Blok na poziomie 3 (prócz ♣️) oznacza siedmiokart i małe szanse na fit w innym kolorze. Partner odpowiada tylko z nadzieją na przynajmniej partię lub by podtrzymać blok. Poparcie bloku to odzywka słaba i tylko po odzywce przeciwników, pozostałe odzywki są naturalne i wymagają około 16+ punktów (by łącznie móc liczyć na partię).
+
+## Licytowanie szlema i szlemika
 
 ## Pytania o asy
 Pytaniem o asy jest 4♣️ chyba, że kontekst na to nie pozwala to wtedy 4NT. (np. ♣️ jest ustalonym kolorem i 4♣️ może być rozumiane jako inwit do partii). 
 
-### Odpowiedzi po 4♣️
+## Odpowiedzi po 4♣️
 
 |      |   | Liczba asów                                 |
 |------|---|---------------------------------------------|
@@ -184,7 +267,7 @@ Pytaniem o asy jest 4♣️ chyba, że kontekst na to nie pozwala to wtedy 4NT. 
 
 \* W przypadku gry w NT odzywką jest 4 ♠️
 
-### Odpowiedzi po 4 NT
+## Odpowiedzi po 4 NT
 
 Odpowiedzi po 4 NT są podobne ale odpowiednio przesunięte w stosunku do tych po 4♣️.
 
@@ -206,5 +289,6 @@ Po pytaniu o asy może nastąpić pytanie o króle. Pytaniem o króle jest kolej
 |  II     | 1 lub 4                                     |
 |  III    | 2                                           |
 
+<!-- TODO: jak w zasadzie wykorzystać, gdy z pytania o asy wiemy, czy partner ma króla atu?>
 
-<!-- TODO: Kiedy można pasować i jakie zasady decydują o docelowym kontrakcie -->
+
