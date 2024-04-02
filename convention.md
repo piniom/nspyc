@@ -70,7 +70,7 @@ Na inną niż PASS lub X odzywkę przeciwnika, jeśli jest to pierwsza odzywka d
 
 |                             | Opis                                                      |
 |-----------------------------|-----------------------------------------------------------|
-| X                           | silna ręka                                                |
+| X                           | 17+ punktów, silna ręka                                   |    
 | odzywka w kolor przeciwnika | 11+ punktów, poparcie dla partnera w pozostałych kolorach |
 | NT                          | 9+ punktów, ręka zrównoważona                             |
 | własny kolor                | 8+ punktów, 5tka w zadanym kolorze                        |   
