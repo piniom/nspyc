@@ -228,6 +228,7 @@ Po licytacji **2♦️->PASS->2NT-zainteresowanie partią, forsujące** (zamiast
 Np. **2♦️->PASS->2NT-zainteresowanie partią, forsujące->PASS->3♦️-5-8 pkt, minimalna ręka** **; **2♦️->PASS->2NT-zainteresowanie partią, forsujące->PASS->3♠️-9-11pkt, as lub król pik, brak wskazówki nt. liczby pików!**; **2♦️->PASS->2NT-zainteresowanie partią, forsujące->PASS->3NT-9-11pkt, brak asów i króli (chyba że karo), teraz odpowiadający może spasować, zmienić na partię w kolor (5♦️) lub zapytać o asy (4♣️)**
 
 \* analogiczne zasady stosują się do pozostałych bloków
+
 \** analogicznie licytuje się przy pozostałych odpowiedziach na blok
 
 ## Odpowiedzi po blokach 3♣️♦️♥️♠️
