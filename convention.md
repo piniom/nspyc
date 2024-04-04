@@ -1,7 +1,10 @@
-## NSPYC
-**Non-Standard Polish Yellow Card**
-
-Tomasz Szczepanik, Szymon Wojtulewicz
+title: NSPYC
+subtitle: Non-Standard Polish Yellow Card alpha0.1
+author: 
+    - Tomasz Szczepanik
+    - Szymon Wojtulewicz
+date: 2024-03-06
+---
 
 ## Nomenklatura
 
