@@ -6,15 +6,9 @@ author:
 date: 2024-03-06
 ---
 
-## Nomenklatura
-
-Lista pojęć używanych w konwencji i ich znaczenie:
-
-- **Ręka zrównoważona** - 3 lub 4 karty w każdym kolorze, możliwy jeden dwukart.
-- **Kolory starsze** - kier i pik.
-- **Kolory młodsze** - trefl i karo.
-
 ## Założenia
+
+**Ręka zrównoważona** - 3 lub 4 karty w każdym kolorze, możliwy jeden dwukart.
 
 By zrobić partię, strona rozgrywająca winna mieć 26+ PC. Do rogrzywki szlemikowej - około 32+ PC.
 
@@ -25,8 +19,6 @@ Powtórzenie zgłaszanego koloru oznacza +1 do długości, jeśli konwencja nie 
 Przy dwukolorowym pięciokarcie albo dwukolorowym sześciokarcie (rozkład kart 5-5 lub 6-6) należy otwierać starszym kolorem.
 
 Z wszystkich kontraktów, które **idą** i które dają partię szansa, że będzie to 5♣️ lub 5♦️ jest dość mała; konwencja faworyzuje licytowanie w starszych kolorach i w NT.
-
-## Otwarcia
 
 Otwarcie zasadniczo zaczerpnięte z SAYC'a jak zresztą całość konwencji.
 
@@ -56,10 +48,6 @@ Otwarcie zasadniczo zaczerpnięte z SAYC'a jak zresztą całość konwencji.
 | 3    | ♣️ ♦️ ♥️ ♠️ | 6-11   | 7 kart w kolorze *                                  |
 
 \* 3♣️ gra się również prz 6karcie gdyż 2♣️ jest [otwarciem mocnym](#otwarcia-mocne).
-
-## Pass
-
-Pas następuje gdy żadna z powyższych odzywek nie jest odpowiednia - mało punktów bez możliwości [bloku](#otwarcia-blokujące).
 
 ## Otwarcie przeciwnika
 
@@ -239,9 +227,7 @@ Otwierający popiera odpowiadającego na poziomie 3 mając 3 karty w kolorze. Po
 
 Po licytacji **2♦️->PASS->2NT-zainteresowanie partią, forsujące** (zamiast spasować, przeciwnik może też skontrować). Teraz powtórzenie koloru przez otwierającego oznacza rękę minimalną (6-8 punktów), zgłoszenie innego koloru - asa lub króla w danym kolorze, natomiast podwyższenie na 3NT - 9-11 punktów i brak asów i króli w innych kolorach. Odpowiadający, mając pełną informację o sile na linii, decyduje o kontrakcie lub pyta o asy (tak więc 3NT niekoniecznie kończy licytację).
 
-Np. **2♦️->PASS->2NT-zainteresowanie partią, forsujące->PASS->3♦️-5-8 pkt, minimalna ręka** **
-Np. **2♦️->PASS->2NT-zainteresowanie partią, forsujące->PASS->3♠️-9-11pkt, as lub król pik, brak wskazówki nt. liczby pików!**
-Np. **2♦️->PASS->2NT-zainteresowanie partią, forsujące->PASS->3NT-9-11pkt, brak asów i króli (chyba że karo), teraz odpowiadający może spasować, zmienić na partię w kolor (5♦️) lub zapytać o asy (4♣️)**
+Np. **2♦️->PASS->2NT-zainteresowanie partią, forsujące->PASS->3♦️-5-8 pkt, minimalna ręka** **; **2♦️->PASS->2NT-zainteresowanie partią, forsujące->PASS->3♠️-9-11pkt, as lub król pik, brak wskazówki nt. liczby pików!**; **2♦️->PASS->2NT-zainteresowanie partią, forsujące->PASS->3NT-9-11pkt, brak asów i króli (chyba że karo), teraz odpowiadający może spasować, zmienić na partię w kolor (5♦️) lub zapytać o asy (4♣️)**
 
 \* analogiczne zasady stosują się do pozostałych bloków
 \** analogicznie licytuje się przy pozostałych odpowiedziach na blok
@@ -249,8 +235,6 @@ Np. **2♦️->PASS->2NT-zainteresowanie partią, forsujące->PASS->3NT-9-11pkt,
 ## Odpowiedzi po blokach 3♣️♦️♥️♠️
 
 Blok na poziomie 3 (prócz ♣️) oznacza siedmiokart i małe szanse na fit w innym kolorze. Partner odpowiada tylko z nadzieją na przynajmniej partię lub by podtrzymać blok. Poparcie bloku to odzywka słaba i tylko po odzywce przeciwników, pozostałe odzywki są naturalne i wymagają około 16+ punktów (by łącznie móc liczyć na partię).
-
-## Licytowanie szlema i szlemika
 
 ## Pytania o asy
 Pytaniem o asy jest 4♣️ chyba, że kontekst na to nie pozwala to wtedy 4NT. (np. ♣️ jest ustalonym kolorem i 4♣️ może być rozumiane jako inwit do partii). 
