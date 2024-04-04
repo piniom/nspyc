@@ -1,19 +1,13 @@
-title: NSPYC
-subtitle: Non-Standard Polish Yellow Card alpha0.1
-author: 
-    - Tomasz Szczepanik
-    - Szymon Wojtulewicz
-date: 2024-03-06
+## NSPYC
+**Non-Standard Polish Yellow Card**
 
----
+Tomasz Szczepanik, Szymon Wojtulewicz
 
-# Nomenklatura
+## Nomenklatura
 
 Lista pojęć używanych w konwencji i ich znaczenie:
 
 - **Ręka zrównoważona** - 3 lub 4 karty w każdym kolorze, możliwy jeden dwukart.
-- **Ręka półzrównoważona** - bez renansu lub singletona.
-- **Słaba ręka** - 0-7 punktów.
 - **Kolory starsze** - kier i pik.
 - **Kolory młodsze** - trefl i karo.
 
@@ -23,7 +17,7 @@ By zrobić partię, strona rozgrywająca winna mieć 26+ PC. Do rogrzywki szlemi
 
 Jeśli pomiędzy zgłaszającym odzywkę forsującą a odpowiadającym na nią przeciwnik nie spasuje, odpowiadający ma prawo spasować i oznacza to rękę minimalną dla dotychczasowych ustaleń.
 
-Powtórzenie zgłaszanego koloru oznacza +1 do długości, jeśli konwencja nie musi inaczej.
+Powtórzenie zgłaszanego koloru oznacza +1 do długości, jeśli konwencja nie wskazuje inaczej.
 
 Przy dwukolorowym pięciokarcie albo dwukolorowym sześciokarcie (rozkład kart 5-5 lub 6-6) należy otwierać starszym kolorem.
 
@@ -85,7 +79,7 @@ Na inną niż PASS lub X odzywkę przeciwnika, jeśli jest to pierwsza odzywka d
 | 1    | 1NT    | 6-9  | nie ma czwórki w pikach ani poparcia (trójki) w kierach   |
 | 2    | ♣️♦️   | 10+   | przynajmniej czwórka w zgłaszanym kolorze                 |
 | 2    | ♥️    | 6-10   | 3+ kiery                                                  |
-| 2    | NT    | 13+   | forsujące do partii [Jacoby 2NT](#jacoby-2NT)              |
+| 2    | NT    | 13+   | forsujące do partii [Jacoby 2NT](#jacoby-2nt)              |
 | 2    | ♠️    | 16+    | 4+ piki, zaproszenie do szlema                            |
 | 3    | ♣️    | 16+    | 4+ trefle, zaproszenie do szlema                          |
 | 3    | ♦️    | 16+    | 4+ kara, zaproszenie do szlema                            |
@@ -119,7 +113,7 @@ Poniższa tabela zawiera odpowiedzi na 1♦️; odpowiedzi na 1♣️ są analog
 | 2    | ♦️   | 6-10   | 4+ kara                                                   |
 | 2    | ♥️    | 16+    | 4+ kiery, zaproszenie do szlema                          |
 | 2    | ♠️    | 16+    | 4+ piki, zaproszenie do szlema                           |
-| 2    | NT    | 13+   | forsujące do partii [Jacoby 2NT](#jacoby-2NT)             |
+| 2    | NT    | 13+   | forsujące do partii [Jacoby 2NT](#jacoby-2nt)             |
 | 3    | ♣️    | 16+    | 4+ trefle, zaproszenie do szlema                         |
 | 3    | ♥️    | 10-11  | 3+ kiery                                                 |
 | 3    | NT    | 15-17  | 2 kara, zrównoważona ręka                                |
@@ -133,7 +127,7 @@ Jeśli przeciwnik przelicytuje (odzywką inną niż X) 1NT, dalsze odzywki są n
 | 2    | ♣️    | 5+     | [Stayman](#stayman)                                          |
 | 2    | ♦️   | 5+     | 5tka w kierach, [transfer](#starsze-transfery)               |
 | 2    | ♥️    | 5+     | 5tka w pikach, [transfer](#starsze-transfery)                |
-| 2    | ♠️    | 5+     | 5tka w ♣ lub 5tka w ♦, [transfer](#młodsze-transfery)        |
+| 2    | ♠️    | 5+     | 5tka w ♣️ lub 5tka w ♦️, [transfer](#młodsze-transfery)        |
 | 2    | NT   | 8-10   | zrównoważona ręka, inwit do 3NT jeśli partner nie ma minimum |
 | 3    | ♣️    | 9+     | przynajmniej 6tka w treflach, inwit do 3NT                   |
 | 3    | ♦️    | 9+     | przynajmniej 6tka w karach, inwit do 3NT                     |
@@ -176,7 +170,7 @@ Grany po **1NT->PASS-2♣️** lub **2NT->PASS-3♣️** oraz przy kontrze zamia
 
 Zgłoszenie po odpowiedzi na Staymana młodszego koloru na wysokości 3. jest naturalne i oznacza pięciokart z nadzieją na szlemika. (np. **1NT->PASS->2♣️->PASS->2♥️->PASS->3♦️ - odpowiadający ma nadzieję na szlemika, 15+ pkt**)
 
-Po niekontrującej odzywce przeciwnika między Staymanem a odpowiedzią, odzywki zostawiają znaczenie, ewentualnie podnosi się je o 1 (np. **1NT->PASS->2♣️->2♠️->3♥️ - oznacza 4 kiery**, **1NT->PASS->2♣️->2♠️->3♣️ - oznacza 4+ trefle**, **1NT->PASS->2♣️->2♠️->3♦️ - oznacza 4+ kara**`)
+Po niekontrującej odzywce przeciwnika między Staymanem a odpowiedzią, odzywki zostawiają znaczenie, ewentualnie podnosi się je o 1 (np. **1NT->PASS->2♣️->2♠️->3♥️ - oznacza 4 kiery**, **1NT->PASS->2♣️->2♠️->3♣️ - oznacza 4+ trefle**, **1NT->PASS->2♣️->2♠️->3♦️ - oznacza 4+ kara**)
 
 \* Dla 2NT poziomy w powyższej tabeli należy podnieść o 1. 
 
@@ -211,7 +205,7 @@ Odpowiedź na potwierdzenie transferu kierowego: (np. **1NT->PASS->2♦️->PASS
 
 Poniższa sekcja opisuje odpowiedzi po transferach na młodsze kolory, tj. sekwencję licytacji **1NT->PASS->2♠️**, co może być transferem na trefle lub kara.
 
-Teraz otwierający musi odpowiedzieć 3♣️, na co partner pasuje przy pięciokarcie w treflach lub zmienia na 3♦ przy pięciokarcie w karach. (np. **1NT->PASS->2♠️->PASS-3♣️ - obowiązkowe->PASS->PASS - odpowiadający ma pięciokart w treflach**, **1NT->PASS->2♠️->PASS-3♣️ - obowiązkowe->PASS->3♦️ - odpowiadający ma pięciokart w karach**)
+Teraz otwierający musi odpowiedzieć 3♣️, na co partner pasuje przy pięciokarcie w treflach lub zmienia na 3♦️ przy pięciokarcie w karach. (np. **1NT->PASS->2♠️->PASS-3♣️ - obowiązkowe->PASS->PASS - odpowiadający ma pięciokart w treflach**, **1NT->PASS->2♠️->PASS-3♣️ - obowiązkowe->PASS->3♦️ - odpowiadający ma pięciokart w karach**)
 
 ## Odpowiedzi po 2♣️
 
@@ -220,9 +214,11 @@ Teraz otwierający musi odpowiedzieć 3♣️, na co partner pasuje przy pięcio
 | 2    | ♦️ | odzwyka wyczekująca*                                    |
 | 2    | ♥️ | 5 kierów, 8+ punktów                                    |
 | 2    | ♠️ | 5 pików, 8+ punktów                                     |
-| 2    | NT| zrównoważona ręka, 8 punktów                            |
+| 2    | NT | zrównoważona ręka, około 8 punktów                      |
 | 3    | ♣️ | 5 trefli, 8+ punktów                                    |
 | 3    | ♦️ | 5 kar, 8+ punktów                                       |
+
+\* może oznaczać negat (0-3 punkty) lub inną (może silną) rękę bez piątki
 
 ## Odpowiedzi po blokach 2♦️♥️♠️
 
@@ -236,9 +232,9 @@ Przykładowe odpowiedzi po bloku 2♥️*:
 | 3    | ♦️ | 13+ punktów, 5 kar, odzywka forsująca na jedną turę    |
 | 2    | ♥️ | 8-10 punktów, wsparcie bloku                           |
 
-Otwierający popiera odpowiadającego na poziomie 3 mając 3 karty w kolorze. Powtórzenie swojego koloru oznacza rękę minimalną (5-8 punktów). Przy braku poparcia dla koloru odpowiadającego (lub w odpowiedzi na 2NT, użyte w poniższym przykładzie) następuje:
+Otwierający popiera odpowiadającego na poziomie 3 mając 3 karty w kolorze. Powtórzenie przez otwierającego swojego koloru oznacza rękę minimalną (6-8 punktów). Przy braku poparcia dla koloru odpowiadającego (lub w odpowiedzi na 2NT, użyte w poniższym przykładzie) następuje:
 
-Po licytacji **2♦️->PASS->2NT-zainteresowanie partią, forsujące** (zamiast spasować, przeciwnik może też skontrować). Teraz powtórzenie koloru przez otwierającego oznacza rękę minimalną (5-8 punktów), zgłoszenie innego koloru - asa lub króla w danym kolorze, natomiast podwyższenie na 3NT - 9-11 punktów i brak asów i króli w innych kolorach. Odpowiadający, mając pełną informację o sile na linii, decyduje o kontrakcie lub pyta o asy (tak więc 3NT niekoniecznie kończy licytację).
+Po licytacji **2♦️->PASS->2NT-zainteresowanie partią, forsujące** (zamiast spasować, przeciwnik może też skontrować). Teraz powtórzenie koloru przez otwierającego oznacza rękę minimalną (6-8 punktów), zgłoszenie innego koloru - asa lub króla w danym kolorze, natomiast podwyższenie na 3NT - 9-11 punktów i brak asów i króli w innych kolorach. Odpowiadający, mając pełną informację o sile na linii, decyduje o kontrakcie lub pyta o asy (tak więc 3NT niekoniecznie kończy licytację).
 
 Np. **2♦️->PASS->2NT-zainteresowanie partią, forsujące->PASS->3♦️-5-8 pkt, minimalna ręka** **
 Np. **2♦️->PASS->2NT-zainteresowanie partią, forsujące->PASS->3♠️-9-11pkt, as lub król pik, brak wskazówki nt. liczby pików!**
@@ -281,14 +277,12 @@ Odpowiedzi po 4 NT są podobne ale odpowiednio przesunięte w stosunku do tych p
 \* W przypadku gry w NT odzywką jest 5 ♥
 
 ## Pytania o króle
-Po pytaniu o asy może nastąpić pytanie o króle. Pytaniem o króle jest kolejna odzywka po odpowiedzi na pytanie o asy. Kolejne odpowiedzi (z pominięciem koloru atutowego jeżeli jest ustalony) informują o liczbie króli.
+Po pytaniu o asy może nastąpić pytanie o króle. Pytaniem o króle jest kolejna odzywka po odpowiedzi na pytanie o asy, z pominięciem koloru atutowego jeżeli jest ustalony. Kolejne odpowiedzi informują o liczbie króli.
 
 | Kolejno | Liczba króli                                |
 |---------|---------------------------------------------|
 |  I      | 0 lub 3                                     |
 |  II     | 1 lub 4                                     |
 |  III    | 2                                           |
-
-<!-- TODO: jak w zasadzie wykorzystać, gdy z pytania o asy wiemy, czy partner ma króla atu?>
 
 
