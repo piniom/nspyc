@@ -6,8 +6,6 @@ author:
 date: 2024-03-06
 ---
 
-## Założenia
-
 **Ręka zrównoważona** - 3 lub 4 karty w każdym kolorze, możliwy jeden dwukart.
 
 By zrobić partię, strona rozgrywająca winna mieć 26+ PC. Do rogrzywki szlemikowej - około 32+ PC.
